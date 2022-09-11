@@ -1,4 +1,4 @@
-## Lesson 5: Cookies & Session with passport
+## Lesson: Cookies & Session with passport
 
 - passport local strategy
 
